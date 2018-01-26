@@ -46,4 +46,17 @@ default:
 alert('its an array');
 break;
 }
-const
+const bestMovie= [];
+bestMovie != undefined ? alert('it exist!') : alert('it does');
+
+
+var userAge= prompt('how old are you?', '23')
+
+
+var userAge = confirm("are you under 80 years old?");
+
+if(userAge == true) {
+
+}else{
+  aler('youre not old enough...thats great kid, dont get cocky');
+}
